@@ -484,10 +484,6 @@ textarea:focus {
         opacity: 30%;
     }
     
-    .circle-img img {
-        width: 100%; 
-    
-    }
     .sapn-image{
         width: 25%;
         position: relative;
@@ -512,7 +508,7 @@ textarea:focus {
         line-height: 20px;
     }
     .marketing p , span{
-        font-size: 14px;
+        font-size: 12px;
         line-height: 20px;
     }
 
